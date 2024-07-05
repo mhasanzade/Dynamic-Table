@@ -8,6 +8,6 @@ Test data olaraq göndərilən example.json istifadə edilmişdir.
 
 Əlaqə vasitələri:
 
-Linkedin: (https://www.linkedin.com/in/mhasanzade/)
+Linkedin: https://www.linkedin.com/in/mhasanzade/
 
 Gmail: madina.hszd@gmail.com
