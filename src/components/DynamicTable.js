@@ -94,7 +94,7 @@ const DynamicTable = ({ data }) => {
                 </td>)}
             </>
         )
-        return { columns, arrLength: arr.length };
+        return { data: columns, arrLength: arr.length };
     };
 
     const createRows = (nodes, maxLength) => {
@@ -178,7 +178,7 @@ const DynamicTable = ({ data }) => {
                 <col span={1} style={{ border: '2px solid black' }} />
             </colgroup>
             <tbody>
-                {columns.columns.map((column, index) => (
+                {columns.data.map((column, index) => (
                     <tr key={column.id} style={index === columns.columns.length - 1 ? { border: "3px solid black" } : {}}>{column}</tr>
                 ))}
                 {rows.map(row => (
