@@ -4,7 +4,7 @@ Bu proyekt React.js istifadə edilərək yazılmışdır.
 Əlavə heç bir kitabxana istifadə edilməmişdir. 
 Test data olaraq göndərilən example.json istifadə edilmişdir.
 
-### `Mədinə Həsənzadə`
+## Mədinə Həsənzadə
 
 Əlaqə vasitələri:
 
